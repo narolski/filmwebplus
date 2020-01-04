@@ -13,7 +13,7 @@ It contains `27202` reviews in total, which are divided into `unlabelled`, `posi
 
 Reviews have been fetched from `Filmweb`, `Film.org.pl`, `Kinoblog`, `FDB` and `blogfilmowy24`. They contain an average of `514` words (or `3582` characters) per document.
 
-The dataset has been pre-processed in order to remove unnecessary `HTML` tags or other redundant metadata, such as image descriptions, using the [Spacey](https://github.com/maxster256/spacey) preprocessor.
+The dataset has been pre-processed in order to remove unnecessary `HTML` tags or other redundant metadata, such as image descriptions, using the [Spacey](https://github.com/maxster256/spacey) preprocessor. It is available in a `CSV` format.
 
 ## Document-level Sentiment Classification Results
 
