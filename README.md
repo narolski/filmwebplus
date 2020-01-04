@@ -1,6 +1,6 @@
 # Filmweb+
 
-Filmweb+ is a dataset of Polish movie reviews used in a work *"Sentiment Classification using Machine Learning"* by Paweł Narolski for the purpouse of a document-level sentiment classification task.
+Filmweb+ is a dataset of Polish movie reviews used for the purpouse of a document-level sentiment classification task.
 
 It contains `27202` reviews in total, which are divided into `unlabelled`, `positive`, `neutral` and `negative` classes based on rating given by the review's author.
 
